@@ -1,8 +1,8 @@
-package com.luv2code.springboot.thymeleafdemo.controller;
+package com.hamza.springboot.training.thymeleaf.controller;
 
 
-import com.luv2code.springboot.thymeleafdemo.entity.Employee;
-import com.luv2code.springboot.thymeleafdemo.service.EmployeeService;
+import com.hamza.springboot.training.thymeleaf.entity.Employee;
+import com.hamza.springboot.training.thymeleaf.service.EmployeeService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;

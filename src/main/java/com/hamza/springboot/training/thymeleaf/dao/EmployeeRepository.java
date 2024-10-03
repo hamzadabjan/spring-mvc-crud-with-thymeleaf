@@ -1,6 +1,6 @@
-package com.luv2code.springboot.thymeleafdemo.dao;
+package com.hamza.springboot.training.thymeleaf.dao;
 
-import com.luv2code.springboot.thymeleafdemo.entity.Employee;
+import com.hamza.springboot.training.thymeleaf.entity.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

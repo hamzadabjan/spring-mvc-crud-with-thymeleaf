@@ -1,4 +1,4 @@
-package com.luv2code.springboot.thymeleafdemo.entity;
+package com.hamza.springboot.training.thymeleaf.entity;
 
 import jakarta.persistence.*;
 
